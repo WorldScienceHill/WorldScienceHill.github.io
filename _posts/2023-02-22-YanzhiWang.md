@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Exclusive Interview with Yanzhi Wang, Associate Professor of Northeastern University and CoCoPIE CEO
-subtitle: Can Neuromorphic Networks Create Tomorrow's ChatGPT?
+title: Can Neuromorphic Networks Create Tomorrow's ChatGPT?
+subtitle: Exclusive Interview with Yanzhi Wang, Associate Professor of Northeastern University and CoCoPIE CEO
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/avatar-icon.jpeg
 share-img: /assets/img/path.jpg
