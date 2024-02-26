@@ -23,11 +23,10 @@ American software outsourcing service provider Cognizant.
 
 Yanzhi Wang: My main research areas focus on two aspects: firstly, implementing computation-intensive deep learning on various lightweight
 devices at the edge, such as personal computers and mobile phones, enabling machine learning and speech processing capabilities on mobile
-devices to make AI services ubiquitous and accessible to the public. S
+devices to make AI services ubiquitous and accessible to the public.
 
-econdly, neuromorphic networks involve seeking inspiration from biology
-and neuroscience in the process of designing network models for machine learning, exploring whether the operational modes of the human brain
-can be referenced in artificial intelligence.
+Secondly, neuromorphic networks involve seeking inspiration from biology and neuroscience in the process of designing network models
+for machine learning, exploring whether the operational modes of the human brain can be referenced in artificial intelligence.
 
 * Question B: Next, we will focus on your second research direction, namely neuromorphic networks. Could you give us a general introduction
 to this field?
