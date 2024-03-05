@@ -16,7 +16,7 @@ Jingyi Wei: PhD from Department of Bioengineering at Stanford University, mentor
 
 Jingyi Wei: My main research direction involves using CRISPR technology for gene editing. The objective in this field is to artificially upregulate or downregulate the expression level of one or more genes to study biological issues or to treat genetic diseases.
 
-* Question B: Could you please introduce some basic knowledge of these fields to those outside the industry??
+* Question B: Could you please introduce some basic knowledge of these fields to those outside the industry?
 
 Jingyi Wei: Firstly, regarding the relationship between genes and cells, according to the central dogma of biology, chromosomal DNA is composed of many genes, which can be represented as sequences made up of four types of nucleotides (A, T, C, G). The DNA of genes can be transcribed into RNA, and then translated into proteins to perform various functions. The different expression levels of various genes can determine the nature and function of a cell, including its growth, response to stress, and the process of apoptosis, among other things. All cells have the exact same DNA sequence, which can be understood as coming from the same template. However, different cells have varying amounts of RNA and proteins for each gene due to gene regulation, which determines the type of the cell. In summary, all cells have the same gene sequence, and the difference lies only in the expression levels of different genes.
 
